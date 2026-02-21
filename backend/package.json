@@ -1,0 +1,12 @@
+{
+  "name": "vitereact-with-router",
+  "version": "1.0.0",
+  "description": "ViteReact with react-router",
+  "license": "ISC",
+  "author": "Tokslaw",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
