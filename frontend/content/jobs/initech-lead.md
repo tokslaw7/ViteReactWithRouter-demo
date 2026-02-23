@@ -1,6 +1,6 @@
 ---
 jobTitle: Frontend Team Lead
-company: IniTech
+company: MyFit.ai
 location: Remote
 startDate: 2022-01-01
 endDate: 2022-12-31

@@ -100,7 +100,7 @@ function App() {
                     <p className="text-gray-700 flex-1 leading-relaxed">
                       I am a passionate and driven professional seeking
                       opportunities that will leverage my extensive experience
-                      in frontend development while providing continuous growth
+                      in FullStack development & DevOps while providing continuous growth
                       and learning opportunities. My goal is to contribute to
                       innovative projects that challenge me to expand my skill
                       set and make meaningful impacts through technology.

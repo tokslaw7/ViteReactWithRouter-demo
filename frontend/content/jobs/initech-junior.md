@@ -1,6 +1,6 @@
 ---
 jobTitle: Junior Frontend Developer
-company: IniTech
+company: Intralot
 location: Remote
 startDate: 2021-01-01
 endDate: 2021-12-31

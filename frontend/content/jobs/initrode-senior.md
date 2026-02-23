@@ -1,6 +1,6 @@
 ---
 jobTitle: Senior Frontend Developer
-company: Initrode
+company: MermsEmr
 location: Remote
 startDate: 2024-01-01
 summary: Developed and architected real-time data visualization features for Initrode's enterprise dashboard platform, implementing a robust WebSocket layer and optimizing performance for large-scale data streams
