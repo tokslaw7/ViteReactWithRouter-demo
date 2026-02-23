@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "private": true,
+  "homepage": "https://tokslaw7.github.io/ViteReactWithRouter-demo/",
   "type": "module",
   "imports": {
     "#/*": "./src/*"
