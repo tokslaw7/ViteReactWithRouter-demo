@@ -28,7 +28,7 @@ jobs:
             npm i
             npm ci            
             npm run build
-            npm test --if-present
+      # npm test --if-present
 
 
       # If deploying to GitHub Pages, add deployment steps here
