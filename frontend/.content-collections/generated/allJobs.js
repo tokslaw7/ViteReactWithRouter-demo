@@ -99,7 +99,4 @@ export default [
       "path": "initrode-senior"
     }
   }
-]rode-senior"
-    }
-  }
 ]

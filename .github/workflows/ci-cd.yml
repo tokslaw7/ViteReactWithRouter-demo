@@ -24,9 +24,10 @@ jobs:
       - name: Install Dependencies
         run: |
             npm install
+            npm run dev
             npm ci            
             npm run build
-            npm test --if-present
+            npm run test --if-present
 
 
       # If deploying to GitHub Pages, add deployment steps here
