@@ -24,7 +24,7 @@ const config = defineConfig({
     }),
     //!isTest && contentCollections(),
   ],//.filter(Boolean),
-  base: "/ViteReactWithRouter-demo/"
-})
+  base: "/ViteReactWithRouter-demo/",
+});
 
 export default config
