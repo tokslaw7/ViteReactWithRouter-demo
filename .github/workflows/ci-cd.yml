@@ -30,13 +30,15 @@ jobs:
 
       
       - name: Verify build output
-        run: ls -la frontend/dist
+        run: |
+          ls -la frontend/dist
+          test -f frontend/dist/index.html
         
-      # If deploying to GitHub Pages, add deployment steps here
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'frontend/dist' # The build output directory for Vite apps
+          
 
   deploy:
     # Add a dependency to the build job
