@@ -1,5 +1,5 @@
 ---
-jobTitle: Senior Frontend Developer
+jobTitle: Senior Software Engineer
 company: MermsEmr
 location: Remote
 startDate: 2024-01-01
@@ -18,7 +18,7 @@ tags:
   ]
 ---
 
-Served as a Senior Frontend Developer on Initrode's Dashboard team, focusing on building high-performance, real-time data visualization features for enterprise clients. Key achievements and responsibilities included:
+Served as a Senior Software Engineer on MermsEmr's Dashboard team, focusing on building high-performance, real-time data visualization features for enterprise clients. Key achievements and responsibilities included:
 
 - Designed and implemented a WebSocket-based real-time data transport layer, enabling live updates for dashboard components with sub-100ms latency
 - Architected and developed a modular dashboard framework using React and TypeScript, supporting dynamic widget composition and real-time data streams

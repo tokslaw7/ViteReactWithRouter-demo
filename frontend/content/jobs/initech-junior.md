@@ -1,10 +1,10 @@
 ---
-jobTitle: Junior Frontend Developer
+jobTitle: PHP Developer
 company: Intralot
 location: Remote
 startDate: 2021-01-01
 endDate: 2021-12-31
-summary: Junior frontend developer working on React-based web applications using modern development practices
+summary: PHP developer working on React-based web applications using modern development practices
 description:
 tags:
   [

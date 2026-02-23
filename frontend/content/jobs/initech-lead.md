@@ -19,7 +19,7 @@ tags:
   ]
 ---
 
-Led the development and maintenance of IniTech's marketing platform as Frontend Team Lead, managing a cross-functional team of three engineers including a backend developer and a DevOps engineer. Key achievements and responsibilities included:
+Led the development and maintenance of MyFit's marketing platform as Frontend Team Lead, managing a cross-functional team of three engineers including a backend developer and a DevOps engineer. Key achievements and responsibilities included:
 
 - Architected and implemented a modern React-based marketing platform using TypeScript and TanStack, resulting in a 40% improvement in page load times
 - Managed and mentored a team of three engineers, conducting regular code reviews, sprint planning, and technical guidance
