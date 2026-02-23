@@ -24,18 +24,19 @@ jobs:
       - name: Install Dependencies
         run: |
             cd frontend
-            rm -rf node_modules package-lock.json
-            npm i
             npm ci            
             npm run build
       # npm test --if-present
 
-
+      
+      - name: Verify build output
+        run: ls -la frontend/dist
+        
       # If deploying to GitHub Pages, add deployment steps here
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist' # The build output directory for Vite apps
+          path: 'frontend/dist' # The build output directory for Vite apps
 
   deploy:
     # Add a dependency to the build job
