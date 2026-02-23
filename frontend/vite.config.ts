@@ -7,6 +7,8 @@ import { tanstackStart } from '@tanstack/react-start/plugin/vite'
 import viteReact from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 import contentCollections from '@content-collections/vite'
+import {isTest} from "std-env";
+
 
 const config = defineConfig({
   plugins: [
@@ -20,7 +22,8 @@ const config = defineConfig({
         plugins: ['babel-plugin-react-compiler'],
       },
     }),
-  ],
+    !isTest && contentCollections(),
+  ].filter(Boolean),
 })
 
 export default config
